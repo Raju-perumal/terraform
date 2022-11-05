@@ -1,0 +1,1 @@
+bucket_name = "var-dynamic-name-file"
